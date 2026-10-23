@@ -123,18 +123,6 @@ You can download a full spreadsheet of every link using the **Export CSV** butto
 
 ---
 
-## ⚙️ Configuration
-
-A few settings can be changed near the top of the Python section inside `holLinkChecker.sh`:
-
-| Setting | Default | What it does |
-|---|---|---|
-| `TIMEOUT` | `12` | Seconds to wait for each link before giving up |
-| `WORKERS` | `16` | How many links are checked at the same time |
-| `time.sleep(0.15)` | `0.15` | Pause (in seconds) between crawling pages |
-
----
-
 ## ❓ Troubleshooting
 
 **`permission denied: ./holLinkChecker.sh`**
