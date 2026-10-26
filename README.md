@@ -104,6 +104,8 @@ Scanning https://example.com (up to 100 pages)...
 
 The visual report then opens in your default browser.
 
+<img width="1659" height="948" alt="image" src="https://github.com/user-attachments/assets/16496bbc-8927-419f-9cee-9d4b72c7032e" />
+
 ---
 
 ## 📊 Understanding the results
